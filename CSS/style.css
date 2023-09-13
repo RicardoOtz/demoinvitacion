@@ -7,6 +7,19 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background-color: #111;
+    color: #fff;
+}
+
+/* Estilos para el modo blanco */
+body.light-mode {
+    background-color: #fff;
+    color: #111;
+}
+
 header {
     background-image: url(/Source/IMGNovios.jpg);
     background-size: cover;
