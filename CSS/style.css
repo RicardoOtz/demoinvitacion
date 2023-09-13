@@ -13,6 +13,10 @@ body.light-mode {
     color: #111;
 }
 
+.modbtn {
+    background-image: url(/Source/blancoynegro.png);
+}
+
 header {
     background-image: url(/Source/IMGNovios.jpg);
     background-size: cover;
