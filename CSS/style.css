@@ -110,6 +110,7 @@ h1 {
     justify-content: center;
     text-align: center;
     color: #ffffff;
+    border-style: solid;
     border-color: #d9ad26;
 }
 .contador-img{
