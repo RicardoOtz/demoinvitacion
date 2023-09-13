@@ -199,6 +199,8 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;
 margin-top: 20px;
+border-style: solid;
+border-color: #d9ad26;
 }
 
 .image-container {
